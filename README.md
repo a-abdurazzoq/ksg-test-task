@@ -1,1 +1,1 @@
-# kgs-test-task
+# ksg-test-task
